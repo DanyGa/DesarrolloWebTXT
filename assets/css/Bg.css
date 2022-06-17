@@ -1,0 +1,66 @@
+:root{
+    --skyblue: #5AbAff;
+    --green: #01c880;
+    --pink:#ea6da3;
+    --purple: #8200d2;
+    --orange: #e27355;
+    --celeste: #bfd4f0;
+    --pinksky: #cd99b7;
+    --bluedark: #242938;
+    --blue: #0e2c5f;
+    --bluelight: #acc2e9;
+    --brown: #d7caad;
+}
+
+.bg-skyblue {
+    background-color:  var(--skyblue) !important;
+}
+
+.bg-green {
+    background-color:  var(--green) !important;
+}
+
+.bg-pink {
+    background-color:  var(--pink) !important;
+}
+
+.bg-purple {
+    background-color:  var(--purple) !important;
+}
+
+.bg-orange {
+    background-color:  var(--orange) !important;
+}
+
+.bg-celeste {
+    background-color:  var(--celeste) !important;
+}
+
+.bg-pinksky {
+    background-color:  var(--pinksky) !important;
+}
+
+.bg-bluedark {
+    background-color:  var(--bluedark) !important;
+}
+
+.bg-blue {
+    background-color:  var(--blue) !important;
+}
+
+.bg-bluelight {
+    background-color:  var(--bluelight) !important;
+}
+
+.bg-brown {
+    background-color:  var(--brown) !important;
+}
+
+div.center{
+    text-align: center;
+}
+
+div.center ul, li{
+    width: 70%;
+    margin: auto;
+}
